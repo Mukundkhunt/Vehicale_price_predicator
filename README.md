@@ -1,0 +1,2 @@
+# Vehicale_price_predicator
+The vehicle predicator works to predicate the vehicle's price, and this price gives you the best buying second vehicle or selling deals. Our workflow model is best. We use two kinds of methods to provide a better result for the user. Mainly two functions run: M.L model is a randomized search CV using the python sklearn module through the train, and another's an algorithm.
